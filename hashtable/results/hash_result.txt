@@ -1,0 +1,10 @@
+num_items: 10, num_buckets: 16, bucket_avg_items: 0, memory_size (bytes): 440, num_used_buckets: 9, used_bucket_max_items: 2, used_bucket_min_items: 1, used_bucket_avg_items: 1
+num_items: 10, num_buckets: 16, bucket_avg_items: 0, memory_size (bytes): 440, num_used_buckets: 9, used_bucket_max_items: 2, used_bucket_min_items: 1, used_bucket_avg_items: 1
+num_items: 10, num_buckets: 16, bucket_avg_items: 0, memory_size (bytes): 440, num_used_buckets: 9, used_bucket_max_items: 2, used_bucket_min_items: 1, used_bucket_avg_items: 1
+num_items: 8, num_buckets: 16, bucket_avg_items: 0, memory_size (bytes): 408, num_used_buckets: 7, used_bucket_max_items: 2, used_bucket_min_items: 1, used_bucket_avg_items: 1
+num_items: 10, num_buckets: 16, bucket_avg_items: 0, memory_size (bytes): 440, num_used_buckets: 9, used_bucket_max_items: 2, used_bucket_min_items: 1, used_bucket_avg_items: 1
+num_items: 10, num_buckets: 16, bucket_avg_items: 0, memory_size (bytes): 440, num_used_buckets: 9, used_bucket_max_items: 2, used_bucket_min_items: 1, used_bucket_avg_items: 1
+num_items: 8, num_buckets: 16, bucket_avg_items: 0, memory_size (bytes): 408, num_used_buckets: 7, used_bucket_max_items: 2, used_bucket_min_items: 1, used_bucket_avg_items: 1
+num_items: 10, num_buckets: 16, bucket_avg_items: 0, memory_size (bytes): 440, num_used_buckets: 9, used_bucket_max_items: 2, used_bucket_min_items: 1, used_bucket_avg_items: 1
+num_items: 10, num_buckets: 16, bucket_avg_items: 0, memory_size (bytes): 440, num_used_buckets: 9, used_bucket_max_items: 2, used_bucket_min_items: 1, used_bucket_avg_items: 1
+num_items: 8, num_buckets: 16, bucket_avg_items: 0, memory_size (bytes): 408, num_used_buckets: 7, used_bucket_max_items: 2, used_bucket_min_items: 1, used_bucket_avg_items: 1
